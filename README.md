@@ -10,3 +10,5 @@ Belajar kelas Dasar Git dengan GitHub. (Progress 100% Selesai)
 Belajar kelas Dasar Pemrograman Web. (Progress 100% Selesai)
   - Belajar HTML dan CSS
   - Belajar Website Responsive
+  - Belajar JavaScript
+  - Belajar Web Storage
