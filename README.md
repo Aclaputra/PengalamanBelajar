@@ -14,7 +14,7 @@ Belajar kelas Dasar Pemrograman Web. (Progress 100% Selesai)
   - Belajar Web Storage
 
 **21 Februari 2022** <br>
-Belajar kelas Dasar Pemrograman JavaScript. (Progress 25% Selesai)
+Belajar kelas Dasar Pemrograman JavaScript. (Progress 43% Selesai)
   - Belajar Sejarah JavaScript
   - Belajar Fundamental JavaScript (Variable, Tipe data, Operator, If/Else Statement Switch case, Loop)
   - Belajar Struktur Data (Pengenalan, Object, Array, Spread Operator, Destructuring Object & Array, Map, Set, WeakMap & WeakSet)
