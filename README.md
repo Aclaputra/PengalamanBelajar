@@ -18,5 +18,5 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 43% Selesai)
   - Sejarah JavaScript
   - Fundamental JavaScript (Variable, Tipe data, Operator, If/Else Statement Switch case, Loop)
   - Struktur Data (Pengenalan, Object, Array, Spread Operator, Destructuring Object & Array, Map, Set, WeakMap & WeakSet)
-  - Function(Pengenalan)
+  - Function(Pengenalan, Declaring)
   - OOP(Object Oriented Programming)
