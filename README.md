@@ -21,3 +21,4 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 70% Selesai)
   - Function(Pengenalan, Declaring, Parameter, Arrow)
   - OOP(Object Oriented Programming, 4 Pillar OOP)
   - Functional Programming
+  - Concurrency
