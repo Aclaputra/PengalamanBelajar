@@ -20,3 +20,4 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 70% Selesai)
   - Struktur Data (Pengenalan, Object, Array, Spread Operator, Destructuring Object & Array, Map, Set, WeakMap & WeakSet)
   - Function(Pengenalan, Declaring, Parameter, Arrow)
   - OOP(Object Oriented Programming, 4 Pillar OOP)
+  - Functional Programming
