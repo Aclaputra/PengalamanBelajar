@@ -21,4 +21,4 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 100% Selesai)
   - Function(Pengenalan, Declaring, Parameter, Arrow)
   - OOP(Object Oriented Programming, 4 Pillar OOP)
   - Functional Programming
-  - Concurrency(Callback, Callback Hell, Promise)
+  - Concurrency(Callback, Callback Hell, Promise, Looping Promise)
