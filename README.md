@@ -10,7 +10,7 @@ Belajar kelas Dasar Git dengan GitHub. (Progress 100% Selesai)
 Belajar kelas Dasar Pemrograman Web. (Progress 100% Selesai)
   - HTML dan CSS
   - Website Responsive
-  - JavaScript
+  - JavaScript(DOM Manipulation)
   - Web Storage
 
 **21 Februari 2022** <br>
