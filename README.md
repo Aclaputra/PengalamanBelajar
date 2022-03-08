@@ -4,7 +4,7 @@ Repository ini berisi pengalamanku di Dicoding [Bangkit 2022 Led by Google, GoTo
 **8 Februari 2022** <br>
 Belajar kelas Dasar Git dengan GitHub. (Progress 100% Selesai)
   - Kegunaan Git dan Github
-  - Dasar Git
+  - Dasar Git VCS(Version Control System)
 
 **15 Februari 2022 - 20 Februari 2022** <br>
 Belajar kelas Dasar Pemrograman Web. (Progress 100% Selesai)
