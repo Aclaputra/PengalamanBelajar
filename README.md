@@ -22,3 +22,8 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 100% Selesai)
   - OOP (Object Oriented Programming, 4 Pillar OOP)
   - Functional Programming
   - Concurrency (Callback, Callback Hell, Promise, Looping Promise)
+  -
+
+**7 Maret 2022** <br>
+Belajar kelas Backend Basic. (Progress 100% Selesai)
+  - Pengenalan Node.js
