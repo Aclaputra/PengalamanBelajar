@@ -26,4 +26,4 @@ Belajar kelas Dasar Pemrograman JavaScript. (Progress 100% Selesai)
 
 **7 Maret 2022** <br>
 Belajar kelas Backend Basic. (Progress 100% Selesai)
-  - Pengenalan Node.js
+  - Pengenalan ke Back-end
